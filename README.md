@@ -1,2 +1,7 @@
 # Roy_DataDisca_InternshipWork
-A repository containing all my noteworthy internship deeds
+
+Made in Partnership With & Powered By: DATADISCA PVT. LTD.
+For more information about DataDisca, please visit: https://datadisca.com/
+Or Get in Touch by Contacting At: science@datadisca.com
+
+
