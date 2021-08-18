@@ -1,6 +1,6 @@
 # My DataDisca Internship Work Hub
 
-Made in Partnership With & Powered By: DATADISCA PVT. LTD.
+Made in Partnership With & Powered By: DATADISCA PTY. LTD.
 
 For More Information About DataDisca, Please Visit: https://datadisca.com/
 
